@@ -1,12 +1,8 @@
 title: >
-  Planet on stage
+  Planet On Stage
 external_domains:
   - "osuny-1b4da.kxcdn.com"
   - "*.osuny.org"
   - "osuny.s3.fr-par.scw.cloud"
   - "tile.openstreetmap.org"
-  - "youtube.com"
-  - "www.youtube.com"
-  - "img.youtube.com"
-  - "youtu.be"
 social:
