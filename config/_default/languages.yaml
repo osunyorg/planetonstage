@@ -8,6 +8,7 @@ fr:
   params:
     social:
   permalinks:
+    persons: /equipe/:slug/
   taxonomies:
     administrator: administrators
     author: authors
