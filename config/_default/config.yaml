@@ -3,6 +3,7 @@ paginate: 18
 enableRobotsTXT: true
 removePathAccents: true
 params:
+  plausible: planetonstage.org
   summary:
     position: hero
   breadcrumb:
