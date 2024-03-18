@@ -1,16 +1,16 @@
 ---
 title: Menu principal
 items:
+- title: Pitch Climat !
+  target: "/pitch-climat/"
+  kind: page
+  children: []
 - title: Découvrez nos Conférences Pitchs!
   target: "/actualites/"
   kind: page
   children: []
 - title: L'association
   target: "/lassociation/"
-  kind: page
-  children: []
-- title: Pitch Climat !
-  target: "/pitch-climat/"
   kind: page
   children: []
 
