@@ -9,10 +9,6 @@ items:
   target: "/pitch-numerique/"
   kind: page
   children: []
-- title: Découvrez nos Conférences Pitchs!
-  target: "/actualites/"
-  kind: page
-  children: []
 - title: L'association
   target: "/lassociation/"
   kind: page
