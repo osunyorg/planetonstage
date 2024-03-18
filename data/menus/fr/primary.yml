@@ -5,16 +5,16 @@ items:
   target: "/pitch-climat/"
   kind: page
   children: []
+- title: Pitch Numérique !
+  target: "/pitch-numerique/"
+  kind: page
+  children: []
 - title: Découvrez nos Conférences Pitchs!
   target: "/actualites/"
   kind: page
   children: []
 - title: L'association
   target: "/lassociation/"
-  kind: page
-  children: []
-- title: Pitch Numérique !
-  target: "/pitch-numerique/"
   kind: page
   children: []
 
