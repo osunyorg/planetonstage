@@ -13,4 +13,8 @@ items:
   target: "/lassociation/"
   kind: page
   children: []
+- title: Pitch Numérique !
+  target: "/pitch-numerique/"
+  kind: page
+  children: []
 
