@@ -9,4 +9,8 @@ items:
   target: "/lassociation/"
   kind: page
   children: []
+- title: Pitch Climat !
+  target: "/pitch-climat/"
+  kind: page
+  children: []
 
