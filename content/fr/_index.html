@@ -137,15 +137,28 @@ contents:
   - kind: block
     template: pages
     title: >-
-      
+      Le premier pas vers le changement, c'est la prise de conscience
     ranks:
-      self: false
+      self: 2
+      children: 3
     data:
+      page: 
+        path: "/"
+        slug: ""
+        file: "pages/_index.html"
       show_main_description: false
-      show_descriptions: false
-      show_images: false
+      show_descriptions: true
+      show_images: true
       layout: grid
       pages:
+        - path: "/pitch-climat/"
+          slug: "pitch-climat"
+          file: "pages/pitch-climat/_index.html"
+          external: false
+        - path: "/pitch-numerique/"
+          slug: "pitch-numerique"
+          file: "pages/pitch-numerique/_index.html"
+          external: false
 
 
 
