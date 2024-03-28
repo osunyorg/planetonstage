@@ -2,19 +2,19 @@
 title: Menu principal
 items:
 - title: Pitch Climat !
-  target: "/pitch-climat/"
+  target: "/fr/pitch-climat/"
   kind: page
   children: []
 - title: Pitch Numérique !
-  target: "/pitch-numerique/"
+  target: "/fr/pitch-numerique/"
   kind: page
   children: []
 - title: L'association
-  target: "/lassociation/"
+  target: "/fr/lassociation/"
   kind: page
   children: []
 - title: Contact
-  target: "/contact/"
+  target: "/fr/contact/"
   kind: page
   children: []
 
