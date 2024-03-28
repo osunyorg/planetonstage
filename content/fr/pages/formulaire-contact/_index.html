@@ -58,17 +58,53 @@ contents:
       self: false
     data:
       code: >-
-        <iframe
+        <form>
         
-          src="https://form.jotform.com/240874742754364"
+          <ul>
         
-          title="Formulaire de contact basique"
+            <li>
         
-          width="400"
+              <label for="organisation">Nom de votre organisation</label>
         
-          height="300">
+              <input id="organisation" name="organisation" required="" type="text">
         
-        </iframe>
+            </li>
+        
+             <li>
+        
+              <label for="email">Votre adresse mail</label>
+        
+              <input id="email" name="email" required="" type="email">
+        
+            </li>
+        
+            <li>
+        
+              <label for="tel">Votre téléphone</label>
+        
+              <input id="tel" name="tel" required="" type="tel">
+        
+            </li>
+        
+            <li>
+        
+              <label for="request">Votre message</label>
+        
+              <textarea id="request" name="request" required=""></textarea>
+        
+            </li>
+        
+            <li>
+        
+        		<input id="consent" name="consent" required="" type="checkbox">
+        
+        		<label for="consent">En cochant cette case, vous consentez à l'utilisation des données collectées pour le traitement exclusif de votre demande par nos soins. </label>
+        
+            </li>
+        
+          </ul>
+        
+        </form>
 
       transcription: >-
         Formulaire de contact
