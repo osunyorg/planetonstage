@@ -55,12 +55,6 @@ contents:
       self: false
     data:
       code: >-
-        <style>
-        
-          ul li{display: normal;}
-        
-        </style>
-        
         <form class="formulaire" action="/ma-page-de-traitement" method="post">
         
           <ul>
@@ -97,9 +91,9 @@ contents:
         
             </li>
         
-            <li>
+            <li id="consent">
         
-        		<input id="consent" name="consent" required="" type="checkbox">
+        		<input name="consent" required="" type="checkbox">
         
         		<label for="consent">En cochant cette case, vous consentez à l'utilisation des données collectées pour le traitement exclusif de votre demande par nos soins. </label>
         
@@ -109,7 +103,7 @@ contents:
         
           <input class="cta" type="submit" value="Envoyer le message ">
         
-          <p>* Champ requis</p>
+          <p id="champ">* Champ requis</p>
         
         </form>
 
