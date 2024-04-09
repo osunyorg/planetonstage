@@ -121,15 +121,16 @@ body.page__home
             padding-left: 24px
 .page__home 
     .block-call_to_action,
-        .call_to_action
+        .page__home 
+            .block-call_to_action,
             background: white !important
 
 .page__home 
     .block-call_to_action
         .call_to_action
-            a
-                background-color: black
-                color: white
+            a:nth-child(1)
+                background-color: black !important
+                color: white !important
 
 body.association
     background: $color-blue
