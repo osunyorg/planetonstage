@@ -23,7 +23,7 @@ body.page-pitchclimat
 body.page-pitchclimat
     .hero
         .block-pages--grid
-            margin-bottom: 0
+            margin-bottom: 0px
 
 body.page-pitchclimat
     .hero
@@ -37,6 +37,19 @@ body.page-pitchclimat
 .page-pitchclimat
     .block-call_to_action:nth-child(2n+1)
         background-color: white !important
+        padding: 48px auto
+
+.page-pitchclimat
+    .block-call_to_action
+        a:nth-child(2n+1)
+            background-color: black
+            color: white
+
+.page-pitchclimat
+    .block-call_to_action
+        a:nth-child(2n+1):hover
+            background-color: white
+            color: black
 
 
 
@@ -126,14 +139,14 @@ body.page__home
 
 .page__home 
     .block-chapter--with-image
-        figure,
+        figure
+            width: 50vw !important
+            padding-left: 24px
+
 .page-pitchclimat
     .block-chapter--with-image
-        figure,
-.page-pitchnumerique
-    .block-chapter--with-image
         figure
-            width: 50vw
+            width: 50vw !important
             padding-left: 24px
 
 .page__home 
