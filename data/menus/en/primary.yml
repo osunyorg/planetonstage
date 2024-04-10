@@ -13,8 +13,8 @@ items:
   target: "/en/contact/"
   kind: page
   children: []
-- title: Team
-  target: "/en/team/"
+- title: Association
+  target: "/en/association/"
   kind: page
   children: []
 

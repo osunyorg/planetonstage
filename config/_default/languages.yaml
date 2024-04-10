@@ -9,7 +9,7 @@ en:
   params:
     social:
   permalinks:
-    persons: /team/:slug/
+    persons: /association/:slug/
   taxonomies:
     administrator: administrators
     author: authors
