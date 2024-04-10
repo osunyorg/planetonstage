@@ -9,12 +9,12 @@ items:
   target: "/en/pitch-numerique/"
   kind: page
   children: []
-- title: Contact
-  target: "/en/contact/"
-  kind: page
-  children: []
 - title: Association
   target: "/en/association/"
+  kind: page
+  children: []
+- title: Contact
+  target: "/en/contact/"
   kind: page
   children: []
 
