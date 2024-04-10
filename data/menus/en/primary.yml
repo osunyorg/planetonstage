@@ -1,6 +1,10 @@
 ---
 title: Main menu
 items:
+- title: Climate Pitch !
+  target: "/en/pitch-climat/"
+  kind: page
+  children: []
 - title: Team
   target: "/en/team/"
   kind: page
