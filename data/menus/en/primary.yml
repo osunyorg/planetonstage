@@ -5,6 +5,10 @@ items:
   target: "/en/pitch-climat/"
   kind: page
   children: []
+- title: Contact
+  target: "/en/contact/"
+  kind: page
+  children: []
 - title: Team
   target: "/en/team/"
   kind: page
