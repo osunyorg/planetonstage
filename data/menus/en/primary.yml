@@ -5,6 +5,10 @@ items:
   target: "/en/pitch-climat/"
   kind: page
   children: []
+- title: Digital Pitch !
+  target: "/en/pitch-numerique/"
+  kind: page
+  children: []
 - title: Contact
   target: "/en/contact/"
   kind: page
