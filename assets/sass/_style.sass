@@ -1,43 +1,31 @@
-
-.header-i18n
-    display: none !important
-
-body.page-association
-        background: $color-blue
-
-body.page-association
-    main
-        background: white
-        padding-bottom: 48px
-
-body.page-association
-    .hero
-        background: $color-blue
-
-
-body.page-contact
-        background: $color-blue
-
-body.page-contact
-    main
-        background: white
-        padding-bottom: 48px
-
-body.page-contact
-    .hero
-        background: $color-blue
-
-body.page-formulaire-contact
-        background: $color-blue
-
 header#document-header
-        background: inherit !important
-
+    background: inherit !important
 h1
     margin-bottom: 48px
-
+.header-i18n
+    display: none !important
+.hero--with-image
+    margin-top: 64px !important
+    .content
+        padding: 0px
+.hero-text
+    margin-top: 0px !important
+.image-landscape
+    margin: 0px !important
+.block-embed
+    margin-top: 0px !important
+    .container
+        padding-bottom: 0px !important
+        padding-left: 0px !important
+        padding-top: 0px !important
+iframe
+    height: 750px !important
+footer
+    button
+        display: none !important
 
 body.page-pitchclimat
+    background: $color-orange
     header#document-header,
     .page-with-blocks,
     .hero,
@@ -45,214 +33,91 @@ body.page-pitchclimat
     .block-call_to_action,
     footer#document-footer
         background: $color-orange
-
-body.page-pitchclimat
     .block-call_to_action
         .block-content
-            padding: 20px 48px
-
-body.page-pitchclimat
-    background: $color-orange
-
-body.page-pitchclimat
-    .hero
-        .block-pages--grid
-            margin-bottom: 0px
-
-body.page-pitchclimat
-    .hero
-        .block-timeline--horizontal
-            background: $color-orange !important
-
-body.page-pitchclimat
-        .name
-            font-weight: $h5-weight
-
-.page-pitchclimat
+            padding-top: $spacing-3
+            padding-bottom: $spacing-3
     .block-call_to_action:nth-child(2n+1)
         background-color: $color-background-alt !important
         padding-top: 48px !important
         padding-bottom: 48px !important
+    .block-chapter--with-image
+        figure
+            width: 50vw !important
+            padding-left: 24px
+    // Pas de block dans le hero, ça ne fait probablement rien du tout
+    // .hero
+        // .block-pages--grid
+        //     margin-bottom: 0px
+        // .block-timeline--horizontal
+        //     background: $color-orange !important
 
+    // Directive cassée, ne fait probablement rien
+        // .name
+        //     font-weight: $h5-weight
 
 body.page-pitchnumerique
     background: $color-green
-
-body.page-pitchnumerique
     header#document-header,
     .hero,
     footer#document-footer
         background: $color-green
 
-
-body.page__home
+.page__home
     background: $color-blue
-
-
-
-
-
-body.page__home
-    header#document-header,
-    .hero,
-    .document-content,
-    .call_to_action,
-    .block-pages--grid,
-    footer#document-footer,
-        background: $color-blue
-
-.hero--with-image
-    margin-top: 64px !important
-
-.hero--with-image
-    .content
-        padding: 0px
-
-
-.hero-text
-    margin-top: 0px !important
-
-.page__home
-    .with-images
-            padding: 0px !important
-            background: white !important
-            margin: 0px !important
-
-.page__home
-    .with-images
-        .container
-            padding: 0px
-
-.page__home
-    .with-images
-        .container
-            article
-                padding: 48px
-
-.page__home
-    .with-images
-        .container
-            article:nth-child(1)
-                background-color: $color-orange
-
-
-.page__home
-    .with-images
-        .container
-            article:nth-child(2)
-                background-color: $color-green
-
-
-.page__home
-    .block-gallery--carousel
-        background-color: white
-        margin: 0px !important
-
-.page__home
-    .blocks
-        .block-pages--grid
-            .grid
-                grid-template-columns: repeat(2, 1fr)
-                grid-gap: 0px !important
-
-.page__home
     header
         figure
             width: 50vw !important
-
-    header
         .content
             padding-top: 0px
-
-.page__home 
-    .block-chapter--with-image
-        figure
-            width: 50vw !important
-            padding-left: 24px
-
-.page-pitchclimat
-    .block-chapter--with-image
-        figure
-            width: 50vw !important
-            padding-left: 24px
-
-.page__home 
-    .block-call_to_action
+    .blocks
+        .block-gallery--carousel
+            background-color: white
+            margin: 0px !important
+        .block-pages
+            &.with-images
+                padding: 0px !important
+                background: white !important
+                margin: 0px !important
+                .container
+                    padding: 0px
+                    article
+                        padding: 48px
+                        &:nth-child(1)
+                            background-color: $color-orange
+                        &:nth-child(2)
+                            background-color: $color-green
+            &--grid
+                .grid
+                    grid-template-columns: repeat(2, 1fr)
+                    grid-gap: 0px !important
+        .block-chapter--with-image
+            figure
+                width: 50vw !important
+                padding-left: 24px
+        .block-call_to_action
             background: white !important
+            .call_to_action
+                a:nth-child(1)
+                    background-color: black !important
+                    color: white !important
 
-.page__home 
-    .call_to_action
-            background: white !important
-
-.page__home 
-    .block-call_to_action
-        .call_to_action
-            a:nth-child(1)
-                background-color: black !important
-                color: white !important
-
-
-.image-landscape
-    margin: 0px !important
-
-body.association
+.page-association,
+.page-contact,
+.page-formulaire-contact
     background: $color-blue
-
-body.association
-    header#document-header,
-    .page-with-blocks,
-    .hero,
-    .document-content,
-    .toc-cta,
-    footer#document-footer
-        background: $color-blue
-
-body.contact
-    background: $color-blue
-
-body.contact
-    header#document-header,
-    .page-with-blocks,
-    .hero,
-    .document-content,
-    footer#document-footer
-    background: $color-blue
-
-.page-contact
-    .block-chapter
-        margin-bottom: 0px !important
+    main
+        background: white
+        padding-bottom: $spacing-6
 
 .page-contact
     .hero--with-image
         figure
             width: 50vw !important
-
-
-.block-embed
-    margin-top: 0px !important
-
-.block-embed
-    .container
-        padding: 0px !important
-
-iframe
-    height: 750px !important
-
-
-.page-formulaire-contact
-    main, .hero--with-image
-        padding-bottom: 0px !important
-
-.page-formulaire-contact
-    header
+    .block-chapter
         margin-bottom: 0px !important
-        
 
 .page-formulaire-contact
     .hero--with-image
         figure
             width: 35vw !important
-
-footer
-    button
-        display: none !important
