@@ -9,10 +9,6 @@ items:
   target: "/fr/politique-de-confidentialite/"
   kind: page
   children: []
-- title: Accessibilité
-  target: "/fr/accessibilite/"
-  kind: page
-  children: []
 - title: Plan du site
   target: "/fr/plan-du-site/"
   kind: page
