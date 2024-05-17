@@ -13,6 +13,8 @@ en:
     posts_categories: /posts/:slug/
     events: /agenda/:year-:month-:day-:slug/
     events_categories: /agenda/:slug/
+    organizations: /organizations/:slug/
+    organizations_categories: /organizations/:slug/
     persons: /association/:slug/
     persons_categories: /association/:slug/
     authors: /association/:slug/posts/
@@ -42,6 +44,8 @@ fr:
     posts_categories: /decouvrez-nos-conferences-pitchs/:slug/
     events: /agenda/:year-:month-:day-:slug/
     events_categories: /agenda/:slug/
+    organizations: /organisations/:slug/
+    organizations_categories: /organisations/:slug/
     persons: /equipe/:slug/
     persons_categories: /equipe/:slug/
     authors: /equipe/:slug/decouvrez-nos-conferences-pitchs/
