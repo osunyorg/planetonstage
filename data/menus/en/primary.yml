@@ -9,24 +9,24 @@ items:
   target: "/en/pitch-numerique/"
   kind: page
   children: []
-- title: Association
-  target: "/en/association/"
-  kind: page
-  children: []
 - title: Contact
   target: "/en/contact/"
   kind: page
   children: []
-- title: Agenda
-  target: "/en/agenda/"
+- title: Organizations
+  target: "/en/organizations/"
   kind: page
   children: []
 - title: Posts
   target: "/en/posts/"
   kind: page
   children: []
-- title: Organizations
-  target: "/en/organizations/"
+- title: Association
+  target: "/en/association/"
+  kind: page
+  children: []
+- title: Agenda
+  target: "/en/agenda/"
   kind: page
   children: []
 
