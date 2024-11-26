@@ -5,16 +5,20 @@ items:
   target: "/fr/pitch-climat/"
   kind: page
   children: []
+  file: content/fr/pages/pitch-climat/_index.html
 - title: Pitch Numérique !
   target: "/fr/pitch-numerique/"
   kind: page
   children: []
+  file: content/fr/pages/pitch-numerique/_index.html
 - title: L'association
   target: "/fr/lassociation/"
   kind: page
   children: []
+  file: content/fr/pages/lassociation/_index.html
 - title: Contact
   target: "/fr/contact/"
   kind: page
   children: []
+  file: content/fr/pages/contact/_index.html
 
