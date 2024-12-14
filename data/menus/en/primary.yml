@@ -5,35 +5,42 @@ items:
   target: "/en/pitch-climat/"
   kind: page
   children: []
+  path: "/pages/pitch-climat"
   file: content/en/pages/pitch-climat/_index.html
 - title: Digital Pitch !
   target: "/en/pitch-numerique/"
   kind: page
   children: []
+  path: "/pages/pitch-numerique"
   file: content/en/pages/pitch-numerique/_index.html
 - title: Contact
   target: "/en/contact/"
   kind: page
   children: []
+  path: "/pages/contact"
   file: content/en/pages/contact/_index.html
 - title: Organizations
   target: "/en/organizations/"
   kind: page
   children: []
+  path: "/organizations"
   file: content/en/organizations/_index.html
 - title: Posts
   target: "/en/posts/"
   kind: page
   children: []
+  path: "/posts"
   file: content/en/posts/_index.html
 - title: Association
   target: "/en/association/"
   kind: page
   children: []
+  path: "/persons"
   file: content/en/persons/_index.html
 - title: Agenda
   target: "/en/agenda/"
   kind: page
   children: []
+  path: "/events"
   file: content/en/events/_index.html
 
