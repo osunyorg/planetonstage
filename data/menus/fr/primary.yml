@@ -4,24 +4,28 @@ items:
 - title: Pitch Climat !
   target: "/fr/pitch-climat/"
   kind: page
+  new_tab: false
   children: []
   path: "/pages/pitch-climat"
   file: content/fr/pages/pitch-climat/_index.html
 - title: Pitch Numérique !
   target: "/fr/pitch-numerique/"
   kind: page
+  new_tab: false
   children: []
   path: "/pages/pitch-numerique"
   file: content/fr/pages/pitch-numerique/_index.html
 - title: L'association
   target: "/fr/lassociation/"
   kind: page
+  new_tab: false
   children: []
   path: "/pages/lassociation"
   file: content/fr/pages/lassociation/_index.html
 - title: Contact
   target: "/fr/contact/"
   kind: page
+  new_tab: false
   children: []
   path: "/pages/contact"
   file: content/fr/pages/contact/_index.html
