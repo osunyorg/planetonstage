@@ -8,3 +8,6 @@ params:
     position: hero
   breadcrumb:
     position: hero-end
+  i18n:
+    positions:
+      - footer
