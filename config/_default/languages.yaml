@@ -12,6 +12,7 @@ fr:
   permalinks:
     events: /agenda/:year-:month-:day-:slug/
     events_categories: /agenda/:slug/
+    pages_categories: /:slug/
     posts: /decouvrez-nos-conferences-pitchs/:year-:month-:day-:slug/
     posts_categories: /decouvrez-nos-conferences-pitchs/:slug/
     organizations: /organisations/:slug/
@@ -26,6 +27,7 @@ fr:
     events_category: events_categories
     location: locations
     organizations_category: organizations_categories
+    pages_category: pages_categories
     persons_category: persons_categories
     posts_category: posts_categories
     projects_category: projects_categories
@@ -44,6 +46,7 @@ en:
   permalinks:
     events: /agenda/:year-:month-:day-:slug/
     events_categories: /agenda/:slug/
+    pages_categories: /:slug/
     posts: /posts/:year-:month-:day-:slug/
     posts_categories: /posts/:slug/
     organizations: /organizations/:slug/
@@ -58,6 +61,7 @@ en:
     events_category: events_categories
     location: locations
     organizations_category: organizations_categories
+    pages_category: pages_categories
     persons_category: persons_categories
     posts_category: posts_categories
     projects_category: projects_categories
