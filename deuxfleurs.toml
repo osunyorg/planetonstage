@@ -15,122 +15,122 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
-from = "/actualites/index.html"
+from = "/actualites/"
 to = "/decouvrez-nos-conferences-pitchs/"
 
 [[redirects]]
-from = "/equipe/marie-queneuille/index.html"
+from = "/equipe/marie-queneuille/"
 to = "/fr/equipe/marie-queneuille/"
 
 [[redirects]]
-from = "/accessibilite/index.html"
+from = "/accessibilite/"
 to = "/fr/accessibilite/"
 
 [[redirects]]
-from = "/fr/agenda/2024-05-09-evenement-1/index.html"
+from = "/fr/agenda/2024-05-09-evenement-1/"
 to = "/fr/agenda/2024/evenement-1/"
 
 [[redirects]]
-from = "/pitch-numerique/index.html"
+from = "/pitch-numerique/"
 to = "/fr/pitch-numerique/"
 
 [[redirects]]
-from = "/www.dazd.fr/index.html"
+from = "/www.dazd.fr/"
 to = "/fr/2024-05-14-participer-a-un-pitch/"
 
 [[redirects]]
-from = "/lassociation/index.html"
+from = "/lassociation/"
 to = "/fr/lassociation/"
 
 [[redirects]]
-from = "/fr/agenda/2024-03-29-conference-pitch-climat-en-ligne/index.html"
+from = "/fr/agenda/2024-03-29-conference-pitch-climat-en-ligne/"
 to = "/fr/agenda/2024/conference-pitch-climat-en-ligne/"
 
 [[redirects]]
-from = "/fr/agenda/2024-06-28-pitch-numerique-en-ligne/index.html"
+from = "/fr/agenda/2024-06-28-pitch-numerique-en-ligne/"
 to = "/fr/agenda/2024/pitch-numerique-en-ligne/"
 
 [[redirects]]
-from = "/fr/agenda/2024-05-02-evenement-pitch-climat/index.html"
+from = "/fr/agenda/2024-05-02-evenement-pitch-climat/"
 to = "/fr/agenda/2024/evenement-pitch-climat/"
 
 [[redirects]]
-from = "/fr/organisations/logos/index.html"
+from = "/fr/organisations/logos/"
 to = "/fr/organisations/categories/logos/"
 
 [[redirects]]
-from = "/fr/equipe/equipe-editoriale/index.html"
+from = "/fr/equipe/equipe-editoriale/"
 to = "/fr/equipe-editoriale/"
 
 [[redirects]]
-from = "/mentions-legales/index.html"
+from = "/mentions-legales/"
 to = "/fr/mentions-legales/"
 
 [[redirects]]
-from = "/plan-du-site/index.html"
+from = "/plan-du-site/"
 to = "/fr/plan-du-site/"
 
 [[redirects]]
-from = "/fr/agenda/2024-05-08-evenement-pitch-numerique/index.html"
+from = "/fr/agenda/2024-05-08-evenement-pitch-numerique/"
 to = "/fr/agenda/2024/evenement-pitch-numerique/"
 
 [[redirects]]
-from = "/formulaire-contact/index.html"
+from = "/formulaire-contact/"
 to = "/fr/formulaire-contact/"
 
 [[redirects]]
-from = "/fr/agenda/2024-05-12-evenement-pitch-numerique-1/index.html"
+from = "/fr/agenda/2024-05-12-evenement-pitch-numerique-1/"
 to = "/fr/agenda/2024/evenement-pitch-numerique-1/"
 
 [[redirects]]
-from = "/fr/decouvrez-nos-conferences-pitchs/2024-05-14-participer-a-un-pitch/index.html"
+from = "/fr/decouvrez-nos-conferences-pitchs/2024-05-14-participer-a-un-pitch/"
 to = "/fr/2024-05-14-participer-a-un-pitch/"
 
 [[redirects]]
-from = "/fr/organisations/langues/index.html"
+from = "/fr/organisations/langues/"
 to = "/fr/organisations/categories/langues/"
 
 [[redirects]]
-from = "/fr/organisations/loreal/index.html"
+from = "/fr/organisations/loreal/"
 to = "/fr/organisations/l-oreal/"
 
 [[redirects]]
-from = "/www.google.fr/index.html"
+from = "/www.google.fr/"
 to = "/fr/2024-05-14-participer-a-un-pitch/"
 
 [[redirects]]
-from = "/fr/agenda/2024-06-14-evenement-pitch-numerique-1/index.html"
+from = "/fr/agenda/2024-06-14-evenement-pitch-numerique-1/"
 to = "/fr/agenda/2024/evenement-pitch-numerique-1/"
 
 [[redirects]]
-from = "/pitch-climat/index.html"
+from = "/pitch-climat/"
 to = "/fr/pitch-climat/"
 
 [[redirects]]
-from = "/fr/decouvrez-nos-conferences-pitchs/2024-05-14-devenir-pitcher/index.html"
+from = "/fr/decouvrez-nos-conferences-pitchs/2024-05-14-devenir-pitcher/"
 to = "/fr/2024-05-14-devenir-pitcher/"
 
 [[redirects]]
-from = "/fr/equipe/jeanne-lepoutre/decouvrez-nos-conferences-pitchs/index.html"
+from = "/fr/equipe/jeanne-lepoutre/decouvrez-nos-conferences-pitchs/"
 to = "/fr/jeanne-lepoutre/decouvrez-nos-conferences-pitchs/"
 
 [[redirects]]
-from = "/contact/index.html"
+from = "/contact/"
 to = "/fr/contact/"
 
 [[redirects]]
-from = "/politique-de-confidentialite/index.html"
+from = "/politique-de-confidentialite/"
 to = "/fr/politique-de-confidentialite/"
 
 [[redirects]]
-from = "/equipe/equipe-editoriale/index.html"
+from = "/equipe/equipe-editoriale/"
 to = "/fr/equipe-editoriale/"
 
 [[redirects]]
-from = "/fr/equipe/jeanne-lepoutre/index.html"
+from = "/fr/equipe/jeanne-lepoutre/"
 to = "/fr/jeanne-lepoutre/"
 
 [[redirects]]
-from = "/en/team/index.html"
+from = "/en/team/"
 to = "/en/association/"
 
