@@ -13,3 +13,136 @@ Cache-Control = "max-age=31536000, no-transform, public"
 for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 [headers.values]
 Cache-Control = "max-age=31536000, no-transform, public"
+
+[[redirects]]
+from = "/decouvrez-nos-conferences-pitchs/index.html"
+to = "/fr/decouvrez-nos-conferences-pitchs/"
+
+[[redirects]]
+from = "/actualites/index.html"
+to = "/fr/decouvrez-nos-conferences-pitchs/"
+
+[[redirects]]
+from = "/equipe/marie-queneuille/index.html"
+to = "/fr/equipe/marie-queneuille/"
+
+[[redirects]]
+from = "/accessibilite/index.html"
+to = "/fr/accessibilite/"
+
+[[redirects]]
+from = "/fr/agenda/2024-05-09-evenement-1/index.html"
+to = "/fr/agenda/2024/evenement-1/"
+
+[[redirects]]
+from = "/fr/jeanne-lepoutre/index.html"
+to = "/fr/equipe/jeanne-lepoutre/"
+
+[[redirects]]
+from = "/pitch-numerique/index.html"
+to = "/fr/pitch-numerique/"
+
+[[redirects]]
+from = "/fr/equipe-editoriale/index.html"
+to = "/fr/equipe/equipe-editoriale/"
+
+[[redirects]]
+from = "/www.dazd.fr/index.html"
+to = "/fr/decouvrez-nos-conferences-pitchs/2024-05-14-participer-a-un-pitch/"
+
+[[redirects]]
+from = "/lassociation/index.html"
+to = "/fr/lassociation/"
+
+[[redirects]]
+from = "/equipe/index.html"
+to = "/fr/equipe/"
+
+[[redirects]]
+from = "/fr/agenda/2024-03-29-conference-pitch-climat-en-ligne/index.html"
+to = "/fr/agenda/2024/conference-pitch-climat-en-ligne/"
+
+[[redirects]]
+from = "/fr/agenda/2024-06-28-pitch-numerique-en-ligne/index.html"
+to = "/fr/agenda/2024/pitch-numerique-en-ligne/"
+
+[[redirects]]
+from = "/fr/agenda/2024-05-02-evenement-pitch-climat/index.html"
+to = "/fr/agenda/2024/evenement-pitch-climat/"
+
+[[redirects]]
+from = "/fr/organisations/logos/index.html"
+to = "/fr/organisations/categories/logos/"
+
+[[redirects]]
+from = "/mentions-legales/index.html"
+to = "/fr/mentions-legales/"
+
+[[redirects]]
+from = "/plan-du-site/index.html"
+to = "/fr/plan-du-site/"
+
+[[redirects]]
+from = "/fr/jeanne-lepoutre/decouvrez-nos-conferences-pitchs/index.html"
+to = "/fr/equipe/jeanne-lepoutre/decouvrez-nos-conferences-pitchs/"
+
+[[redirects]]
+from = "/fr/2024-05-14-devenir-pitcher/index.html"
+to = "/fr/decouvrez-nos-conferences-pitchs/2024-05-14-devenir-pitcher/"
+
+[[redirects]]
+from = "/fr/agenda/2024-05-08-evenement-pitch-numerique/index.html"
+to = "/fr/agenda/2024/evenement-pitch-numerique/"
+
+[[redirects]]
+from = "/formulaire-contact/index.html"
+to = "/fr/formulaire-contact/"
+
+[[redirects]]
+from = "/fr/agenda/2024-05-12-evenement-pitch-numerique-1/index.html"
+to = "/fr/agenda/2024/evenement-pitch-numerique-1/"
+
+[[redirects]]
+from = "/organisations/index.html"
+to = "/fr/organisations/"
+
+[[redirects]]
+from = "/fr/organisations/langues/index.html"
+to = "/fr/organisations/categories/langues/"
+
+[[redirects]]
+from = "/fr/organisations/loreal/index.html"
+to = "/fr/organisations/l-oreal/"
+
+[[redirects]]
+from = "/www.google.fr/index.html"
+to = "/fr/decouvrez-nos-conferences-pitchs/2024-05-14-participer-a-un-pitch/"
+
+[[redirects]]
+from = "/fr/agenda/2024-06-14-evenement-pitch-numerique-1/index.html"
+to = "/fr/agenda/2024/evenement-pitch-numerique-1/"
+
+[[redirects]]
+from = "/pitch-climat/index.html"
+to = "/fr/pitch-climat/"
+
+[[redirects]]
+from = "/fr/2024-05-14-participer-a-un-pitch/index.html"
+to = "/fr/decouvrez-nos-conferences-pitchs/2024-05-14-participer-a-un-pitch/"
+
+[[redirects]]
+from = "/contact/index.html"
+to = "/fr/contact/"
+
+[[redirects]]
+from = "/politique-de-confidentialite/index.html"
+to = "/fr/politique-de-confidentialite/"
+
+[[redirects]]
+from = "/equipe/equipe-editoriale/index.html"
+to = "/fr/equipe/equipe-editoriale/"
+
+[[redirects]]
+from = "/en/team/index.html"
+to = "/en/association/"
+
